@@ -52,13 +52,13 @@ Main Interface:
 - Display of recommendations with similarity scores.
 - Expandable sections for movie tags and genres.
 
-Future Enhancements
-Advanced Embeddings: Use pre-trained embeddings like BERT for improved recommendations.
-Real-time Updates: Allow dynamic updates with new user data.
-Cloud Deployment: Deploy the app on Streamlit Cloud or AWS for public access.
-User Authentication: Add user profiles to store preferences and history.
-Enhanced UI/UX: Improve the app's design for a more engaging user experience.
-Acknowledgments
-MovieLens Dataset: The dataset used in this project is publicly available from MovieLens.
-Streamlit: For enabling rapid application development.
-Scikit-learn: For providing robust machine learning tools.
+# Future Enhancements
+- Advanced Embeddings: Use pre-trained embeddings like BERT for improved recommendations.
+- Real-time Updates: Allow dynamic updates with new user data.
+- Cloud Deployment: Deploy the app on Streamlit Cloud or AWS for public access.
+- User Authentication: Add user profiles to store preferences and history.
+- Enhanced UI/UX: Improve the app's design for a more engaging user experience.
+# Acknowledgments
+- MovieLens Dataset: The dataset used in this project is publicly available from MovieLens.
+- Streamlit: For enabling rapid application development.
+- Scikit-learn: For providing robust machine learning tools.
